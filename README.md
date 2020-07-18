@@ -2,7 +2,7 @@
 
 > Implementation caesar cipher algorithms as outlined [here](https://www.theodinproject.com/courses/ruby-programming/lessons/caesar-cipher) by the Odin Project.
 
-An encrypting algorithm that takes a string or text as input, and it encrypt the text inorder to return an encrypted text.
+An encrypting algorithm that takes a string or text as input, and it encrypts the text inorder to return an encrypted text.
 
 ## Built With
 
@@ -15,7 +15,7 @@ An encrypting algorithm that takes a string or text as input, and it encrypt the
 
 ## Getting Started
 
-**Open the live demo link above and run either of the code demonstrations below**
+**Open the live demo link above and run either of the code demonstrations below, test the method cipher() which needs a string and a key as arguments and then run the following command, you will get an encrypted text on the command line**
  
 ```bash
 ruby cipher.rb
