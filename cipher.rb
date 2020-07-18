@@ -21,4 +21,3 @@ def cipher(str, key)
   end
   str_digits.join('')
 end
-
